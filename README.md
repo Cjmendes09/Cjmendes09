@@ -7,7 +7,7 @@ nothing
 staffs,administrations,
 
 - 📫 How to reach me ...
-twitter:@Xjmendes_09
+twitter:@Cjmendes_09
 
 <!---
 Cjmendes09/Cjmendes09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
